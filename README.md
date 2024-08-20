@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![wakatime](https://wakatime.com/badge/user/c585b1da-c687-4d3b-89c1-72901e86fb52.svg)](https://wakatime.com/@c585b1da-c687-4d3b-89c1-72901e86fb52)<br> ¡Hola! Soy Ivan Cruz 🌀🇲🇽.<br>- 👀 Me interesan la tecnología, la música, la astronomía y la Fórmula 1.<br>- 🌱 Actualmente estoy aprendiendo HTML, CSS y JavaScript.<br>- 💞️ Estoy abierto a colaborar en proyectos.<br>- 📫 Puedes contactarme en ivangtx19@gmail.com.<br>- ⚡ Dato curioso: Sé tocar el piano 😜.
+[![wakatime](https://wakatime.com/badge/user/c585b1da-c687-4d3b-89c1-72901e86fb52.svg)](https://wakatime.com/@c585b1da-c687-4d3b-89c1-72901e86fb52)<br> ¡Hola! Soy Ivan Cruz 🌀🇲🇽.<br>- Me interesan la tecnología, la música, la astronomía y la Fórmula 1.<br>-  Actualmente estoy aprendiendo HTML, CSS y JavaScript.<br>- Estoy abierto a colaborar en proyectos.<br>- Puedes contactarme en ivangtx19@gmail.com.<br>- Dato curioso: Sé tocar el piano 😜.
 
 
 # 💻 Tech Stack:
