@@ -12,10 +12,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IvandevI9&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=IvandevI9&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![roadmap.sh](https://roadmap.sh/card/tall/671ba7a8768f9ccdb0874cf8?variant=dark&roadmaps=frontend%3Fr%3Dfrontend-beginner%2Cfrontend)](https://roadmap.sh)
